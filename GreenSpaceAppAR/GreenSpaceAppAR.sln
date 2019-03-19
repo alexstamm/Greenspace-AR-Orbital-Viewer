@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreenSpaceAppAR.CSharp.Plugins", "GreenSpaceAppAR.CSharp.Plugins.csproj", "{50F6372E-8FDE-2283-6849-19F915BFEEDA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreenSpaceAppAR.CSharp", "GreenSpaceAppAR.CSharp.csproj", "{C5897FBE-A3CC-5753-6964-B3B5FC278DB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreenSpaceAppAR.CSharp.Editor", "GreenSpaceAppAR.CSharp.Editor.csproj", "{A2D55033-A8BC-61A1-640C-CB3D1CC4ACB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50F6372E-8FDE-2283-6849-19F915BFEEDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50F6372E-8FDE-2283-6849-19F915BFEEDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50F6372E-8FDE-2283-6849-19F915BFEEDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50F6372E-8FDE-2283-6849-19F915BFEEDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5897FBE-A3CC-5753-6964-B3B5FC278DB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5897FBE-A3CC-5753-6964-B3B5FC278DB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5897FBE-A3CC-5753-6964-B3B5FC278DB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5897FBE-A3CC-5753-6964-B3B5FC278DB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2D55033-A8BC-61A1-640C-CB3D1CC4ACB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2D55033-A8BC-61A1-640C-CB3D1CC4ACB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2D55033-A8BC-61A1-640C-CB3D1CC4ACB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2D55033-A8BC-61A1-640C-CB3D1CC4ACB5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
