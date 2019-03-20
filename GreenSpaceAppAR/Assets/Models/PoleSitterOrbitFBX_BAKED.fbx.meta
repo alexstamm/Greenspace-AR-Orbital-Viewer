@@ -1,0 +1,476 @@
+fileFormatVersion: 2
+guid: 6dbc241ceb4f75a43afcf2f261f2b250
+timeCreated: 1469214097
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: areaLight1
+    100002: ArtemisSatellite:Artemis
+    100004: ArtemisSatellite:BigAntennae1
+    100006: ArtemisSatellite:BigAntennae2
+    100008: ArtemisSatellite:Bolts
+    100010: ArtemisSatellite:boltsSide
+    100012: ArtemisSatellite:boltsSide1
+    100014: ArtemisSatellite:boltsSide2
+    100016: ArtemisSatellite:boltsSide3
+    100018: ArtemisSatellite:BottomSide
+    100020: ArtemisSatellite:pCube1
+    100022: ArtemisSatellite:pCube10
+    100024: ArtemisSatellite:pCube11
+    100026: ArtemisSatellite:pCube11 1
+    100028: ArtemisSatellite:pCube12
+    100030: ArtemisSatellite:pCube12 1
+    100032: ArtemisSatellite:pCube13
+    100034: ArtemisSatellite:pCube14
+    100036: ArtemisSatellite:pCube2
+    100038: ArtemisSatellite:pCube3
+    100040: ArtemisSatellite:pCube4
+    100042: ArtemisSatellite:pCube5
+    100044: ArtemisSatellite:pCube6
+    100046: ArtemisSatellite:pCube7
+    100048: ArtemisSatellite:pCube8
+    100050: ArtemisSatellite:pCube9
+    100052: ArtemisSatellite:pCylinder1
+    100054: ArtemisSatellite:pCylinder1 1
+    100056: ArtemisSatellite:pCylinder1 2
+    100058: ArtemisSatellite:pCylinder1 3
+    100060: ArtemisSatellite:pCylinder2
+    100062: ArtemisSatellite:pCylinder2 1
+    100064: ArtemisSatellite:pCylinder2 2
+    100066: ArtemisSatellite:pCylinder2 3
+    100068: ArtemisSatellite:pCylinder3
+    100070: ArtemisSatellite:pCylinder3 1
+    100072: ArtemisSatellite:pCylinder3 2
+    100074: ArtemisSatellite:pCylinder3 3
+    100076: ArtemisSatellite:pCylinder4
+    100078: ArtemisSatellite:pCylinder4 1
+    100080: ArtemisSatellite:pCylinder4 2
+    100082: ArtemisSatellite:pCylinder4 3
+    100084: ArtemisSatellite:pCylinder5
+    100086: ArtemisSatellite:pCylinder6
+    100088: ArtemisSatellite:pCylinder7
+    100090: ArtemisSatellite:pCylinder8
+    100092: ArtemisSatellite:polySurface1
+    100094: ArtemisSatellite:polySurface2
+    100096: ArtemisSatellite:polySurface3
+    100098: ArtemisSatellite:polySurface4
+    100100: ArtemisSatellite:pPipe1
+    100102: ArtemisSatellite:pPipe2
+    100104: ArtemisSatellite:pPipe3
+    100106: ArtemisSatellite:pPipe4
+    100108: ArtemisSatellite:pPipe5
+    100110: ArtemisSatellite:pPipe6
+    100112: ArtemisSatellite:pPipe7
+    100114: ArtemisSatellite:pPipe8
+    100116: ArtemisSatellite:pPipe9
+    100118: ArtemisSatellite:pSphere1
+    100120: ArtemisSatellite:pSphere10
+    100122: ArtemisSatellite:pSphere11
+    100124: ArtemisSatellite:pSphere2
+    100126: ArtemisSatellite:pSphere3
+    100128: ArtemisSatellite:pSphere4
+    100130: ArtemisSatellite:pSphere5
+    100132: ArtemisSatellite:pSphere6
+    100134: ArtemisSatellite:pSphere7
+    100136: ArtemisSatellite:pSphere8
+    100138: ArtemisSatellite:pSphere9
+    100140: ArtemisSatellite:SatelliteCameraRig
+    100142: ArtemisSatellite:shields
+    100144: ArtemisSatellite:SideWasher
+    100146: ArtemisSatellite:SideWasher1
+    100148: ArtemisSatellite:SideWasher2
+    100150: ArtemisSatellite:SideWasher3
+    100152: ArtemisSatellite:SideWashers
+    100154: ArtemisSatellite:SmallAntennae1
+    100156: ArtemisSatellite:SmallAntennae2
+    100158: ArtemisSatellite:solar_panels
+    100160: ArtemisSatellite:TopSide
+    100162: ArtemisSatellite:transform1
+    100164: ArtemisSatellite:transform10
+    100166: ArtemisSatellite:transform11
+    100168: ArtemisSatellite:transform12
+    100170: ArtemisSatellite:transform13
+    100172: ArtemisSatellite:transform14
+    100174: ArtemisSatellite:transform15
+    100176: ArtemisSatellite:transform16
+    100178: ArtemisSatellite:transform2
+    100180: ArtemisSatellite:transform3
+    100182: ArtemisSatellite:transform4
+    100184: ArtemisSatellite:transform5
+    100186: ArtemisSatellite:transform6
+    100188: ArtemisSatellite:transform7
+    100190: ArtemisSatellite:transform8
+    100192: ArtemisSatellite:transform9
+    100194: curve1
+    100196: Earth
+    100198: Moon
+    100200: Orbit
+    100202: pointLight1
+    100204: //RootNode
+    100206: Segment1
+    100208: Segment2
+    100210: Segment3
+    100212: Segment4
+    100214: Segment5
+    100216: Segment6
+    100218: Segment7
+    100220: SegmentTransforms
+    100222: transform1
+    100224: transform2
+    400000: areaLight1
+    400002: ArtemisSatellite:Artemis
+    400004: ArtemisSatellite:BigAntennae1
+    400006: ArtemisSatellite:BigAntennae2
+    400008: ArtemisSatellite:Bolts
+    400010: ArtemisSatellite:boltsSide
+    400012: ArtemisSatellite:boltsSide1
+    400014: ArtemisSatellite:boltsSide2
+    400016: ArtemisSatellite:boltsSide3
+    400018: ArtemisSatellite:BottomSide
+    400020: ArtemisSatellite:pCube1
+    400022: ArtemisSatellite:pCube10
+    400024: ArtemisSatellite:pCube11
+    400026: ArtemisSatellite:pCube11 1
+    400028: ArtemisSatellite:pCube12
+    400030: ArtemisSatellite:pCube12 1
+    400032: ArtemisSatellite:pCube13
+    400034: ArtemisSatellite:pCube14
+    400036: ArtemisSatellite:pCube2
+    400038: ArtemisSatellite:pCube3
+    400040: ArtemisSatellite:pCube4
+    400042: ArtemisSatellite:pCube5
+    400044: ArtemisSatellite:pCube6
+    400046: ArtemisSatellite:pCube7
+    400048: ArtemisSatellite:pCube8
+    400050: ArtemisSatellite:pCube9
+    400052: ArtemisSatellite:pCylinder1
+    400054: ArtemisSatellite:pCylinder1 1
+    400056: ArtemisSatellite:pCylinder1 2
+    400058: ArtemisSatellite:pCylinder1 3
+    400060: ArtemisSatellite:pCylinder2
+    400062: ArtemisSatellite:pCylinder2 1
+    400064: ArtemisSatellite:pCylinder2 2
+    400066: ArtemisSatellite:pCylinder2 3
+    400068: ArtemisSatellite:pCylinder3
+    400070: ArtemisSatellite:pCylinder3 1
+    400072: ArtemisSatellite:pCylinder3 2
+    400074: ArtemisSatellite:pCylinder3 3
+    400076: ArtemisSatellite:pCylinder4
+    400078: ArtemisSatellite:pCylinder4 1
+    400080: ArtemisSatellite:pCylinder4 2
+    400082: ArtemisSatellite:pCylinder4 3
+    400084: ArtemisSatellite:pCylinder5
+    400086: ArtemisSatellite:pCylinder6
+    400088: ArtemisSatellite:pCylinder7
+    400090: ArtemisSatellite:pCylinder8
+    400092: ArtemisSatellite:polySurface1
+    400094: ArtemisSatellite:polySurface2
+    400096: ArtemisSatellite:polySurface3
+    400098: ArtemisSatellite:polySurface4
+    400100: ArtemisSatellite:pPipe1
+    400102: ArtemisSatellite:pPipe2
+    400104: ArtemisSatellite:pPipe3
+    400106: ArtemisSatellite:pPipe4
+    400108: ArtemisSatellite:pPipe5
+    400110: ArtemisSatellite:pPipe6
+    400112: ArtemisSatellite:pPipe7
+    400114: ArtemisSatellite:pPipe8
+    400116: ArtemisSatellite:pPipe9
+    400118: ArtemisSatellite:pSphere1
+    400120: ArtemisSatellite:pSphere10
+    400122: ArtemisSatellite:pSphere11
+    400124: ArtemisSatellite:pSphere2
+    400126: ArtemisSatellite:pSphere3
+    400128: ArtemisSatellite:pSphere4
+    400130: ArtemisSatellite:pSphere5
+    400132: ArtemisSatellite:pSphere6
+    400134: ArtemisSatellite:pSphere7
+    400136: ArtemisSatellite:pSphere8
+    400138: ArtemisSatellite:pSphere9
+    400140: ArtemisSatellite:SatelliteCameraRig
+    400142: ArtemisSatellite:shields
+    400144: ArtemisSatellite:SideWasher
+    400146: ArtemisSatellite:SideWasher1
+    400148: ArtemisSatellite:SideWasher2
+    400150: ArtemisSatellite:SideWasher3
+    400152: ArtemisSatellite:SideWashers
+    400154: ArtemisSatellite:SmallAntennae1
+    400156: ArtemisSatellite:SmallAntennae2
+    400158: ArtemisSatellite:solar_panels
+    400160: ArtemisSatellite:TopSide
+    400162: ArtemisSatellite:transform1
+    400164: ArtemisSatellite:transform10
+    400166: ArtemisSatellite:transform11
+    400168: ArtemisSatellite:transform12
+    400170: ArtemisSatellite:transform13
+    400172: ArtemisSatellite:transform14
+    400174: ArtemisSatellite:transform15
+    400176: ArtemisSatellite:transform16
+    400178: ArtemisSatellite:transform2
+    400180: ArtemisSatellite:transform3
+    400182: ArtemisSatellite:transform4
+    400184: ArtemisSatellite:transform5
+    400186: ArtemisSatellite:transform6
+    400188: ArtemisSatellite:transform7
+    400190: ArtemisSatellite:transform8
+    400192: ArtemisSatellite:transform9
+    400194: curve1
+    400196: Earth
+    400198: Moon
+    400200: Orbit
+    400202: pointLight1
+    400204: //RootNode
+    400206: Segment1
+    400208: Segment2
+    400210: Segment3
+    400212: Segment4
+    400214: Segment5
+    400216: Segment6
+    400218: Segment7
+    400220: SegmentTransforms
+    400222: transform1
+    400224: transform2
+    2300000: ArtemisSatellite:pCube1
+    2300002: ArtemisSatellite:pCube10
+    2300004: ArtemisSatellite:pCube12
+    2300006: ArtemisSatellite:pCube12 1
+    2300008: ArtemisSatellite:pCube13
+    2300010: ArtemisSatellite:pCube14
+    2300012: ArtemisSatellite:pCube2
+    2300014: ArtemisSatellite:pCube3
+    2300016: ArtemisSatellite:pCube4
+    2300018: ArtemisSatellite:pCube5
+    2300020: ArtemisSatellite:pCube6
+    2300022: ArtemisSatellite:pCube7
+    2300024: ArtemisSatellite:pCube9
+    2300026: ArtemisSatellite:pCylinder1
+    2300028: ArtemisSatellite:pCylinder1 1
+    2300030: ArtemisSatellite:pCylinder1 2
+    2300032: ArtemisSatellite:pCylinder1 3
+    2300034: ArtemisSatellite:pCylinder2
+    2300036: ArtemisSatellite:pCylinder2 1
+    2300038: ArtemisSatellite:pCylinder2 2
+    2300040: ArtemisSatellite:pCylinder2 3
+    2300042: ArtemisSatellite:pCylinder3
+    2300044: ArtemisSatellite:pCylinder3 1
+    2300046: ArtemisSatellite:pCylinder3 2
+    2300048: ArtemisSatellite:pCylinder3 3
+    2300050: ArtemisSatellite:pCylinder4
+    2300052: ArtemisSatellite:pCylinder4 1
+    2300054: ArtemisSatellite:pCylinder4 2
+    2300056: ArtemisSatellite:pCylinder4 3
+    2300058: ArtemisSatellite:pCylinder5
+    2300060: ArtemisSatellite:pCylinder6
+    2300062: ArtemisSatellite:pCylinder7
+    2300064: ArtemisSatellite:pCylinder8
+    2300066: ArtemisSatellite:polySurface1
+    2300068: ArtemisSatellite:polySurface2
+    2300070: ArtemisSatellite:polySurface3
+    2300072: ArtemisSatellite:polySurface4
+    2300074: ArtemisSatellite:pPipe7
+    2300076: ArtemisSatellite:pPipe8
+    2300078: ArtemisSatellite:pPipe9
+    2300080: ArtemisSatellite:pSphere10
+    2300082: ArtemisSatellite:pSphere11
+    2300084: ArtemisSatellite:pSphere8
+    2300086: ArtemisSatellite:pSphere9
+    2300088: ArtemisSatellite:SideWasher
+    2300090: ArtemisSatellite:SideWasher1
+    2300092: ArtemisSatellite:SideWasher2
+    2300094: ArtemisSatellite:SideWasher3
+    2300096: ArtemisSatellite:SmallAntennae1
+    2300098: ArtemisSatellite:SmallAntennae2
+    2300100: Earth
+    2300102: Moon
+    2300104: Segment1
+    2300106: Segment2
+    2300108: Segment3
+    2300110: Segment4
+    2300112: Segment5
+    2300114: Segment6
+    2300116: Segment7
+    3300000: ArtemisSatellite:pCube1
+    3300002: ArtemisSatellite:pCube10
+    3300004: ArtemisSatellite:pCube12
+    3300006: ArtemisSatellite:pCube12 1
+    3300008: ArtemisSatellite:pCube13
+    3300010: ArtemisSatellite:pCube14
+    3300012: ArtemisSatellite:pCube2
+    3300014: ArtemisSatellite:pCube3
+    3300016: ArtemisSatellite:pCube4
+    3300018: ArtemisSatellite:pCube5
+    3300020: ArtemisSatellite:pCube6
+    3300022: ArtemisSatellite:pCube7
+    3300024: ArtemisSatellite:pCube9
+    3300026: ArtemisSatellite:pCylinder1
+    3300028: ArtemisSatellite:pCylinder1 1
+    3300030: ArtemisSatellite:pCylinder1 2
+    3300032: ArtemisSatellite:pCylinder1 3
+    3300034: ArtemisSatellite:pCylinder2
+    3300036: ArtemisSatellite:pCylinder2 1
+    3300038: ArtemisSatellite:pCylinder2 2
+    3300040: ArtemisSatellite:pCylinder2 3
+    3300042: ArtemisSatellite:pCylinder3
+    3300044: ArtemisSatellite:pCylinder3 1
+    3300046: ArtemisSatellite:pCylinder3 2
+    3300048: ArtemisSatellite:pCylinder3 3
+    3300050: ArtemisSatellite:pCylinder4
+    3300052: ArtemisSatellite:pCylinder4 1
+    3300054: ArtemisSatellite:pCylinder4 2
+    3300056: ArtemisSatellite:pCylinder4 3
+    3300058: ArtemisSatellite:pCylinder5
+    3300060: ArtemisSatellite:pCylinder6
+    3300062: ArtemisSatellite:pCylinder7
+    3300064: ArtemisSatellite:pCylinder8
+    3300066: ArtemisSatellite:polySurface1
+    3300068: ArtemisSatellite:polySurface2
+    3300070: ArtemisSatellite:polySurface3
+    3300072: ArtemisSatellite:polySurface4
+    3300074: ArtemisSatellite:pPipe7
+    3300076: ArtemisSatellite:pPipe8
+    3300078: ArtemisSatellite:pPipe9
+    3300080: ArtemisSatellite:pSphere10
+    3300082: ArtemisSatellite:pSphere11
+    3300084: ArtemisSatellite:pSphere8
+    3300086: ArtemisSatellite:pSphere9
+    3300088: ArtemisSatellite:SideWasher
+    3300090: ArtemisSatellite:SideWasher1
+    3300092: ArtemisSatellite:SideWasher2
+    3300094: ArtemisSatellite:SideWasher3
+    3300096: ArtemisSatellite:SmallAntennae1
+    3300098: ArtemisSatellite:SmallAntennae2
+    3300100: Earth
+    3300102: Moon
+    3300104: Segment1
+    3300106: Segment2
+    3300108: Segment3
+    3300110: Segment4
+    3300112: Segment5
+    3300114: Segment6
+    3300116: Segment7
+    4300000: Earth
+    4300002: Moon
+    4300004: Segment5
+    4300006: Segment6
+    4300008: Segment1
+    4300010: Segment2
+    4300012: Segment3
+    4300014: Segment7
+    4300016: Segment4
+    4300018: ArtemisSatellite:pCube14
+    4300020: ArtemisSatellite:pCube13
+    4300022: ArtemisSatellite:pCube12
+    4300024: ArtemisSatellite:polySurface3
+    4300026: ArtemisSatellite:polySurface4
+    4300028: ArtemisSatellite:pCube12
+    4300030: ArtemisSatellite:polySurface1
+    4300032: ArtemisSatellite:polySurface2
+    4300034: ArtemisSatellite:SideWasher3
+    4300036: ArtemisSatellite:SideWasher2
+    4300038: ArtemisSatellite:SideWasher1
+    4300040: ArtemisSatellite:SideWasher
+    4300042: ArtemisSatellite:SmallAntennae2
+    4300044: ArtemisSatellite:SmallAntennae1
+    4300046: ArtemisSatellite:pCube9
+    4300048: ArtemisSatellite:pCylinder8
+    4300050: ArtemisSatellite:pCube10
+    4300052: ArtemisSatellite:pSphere8
+    4300054: ArtemisSatellite:pSphere9
+    4300056: ArtemisSatellite:pSphere10
+    4300058: ArtemisSatellite:pSphere11
+    4300060: ArtemisSatellite:pCylinder7
+    4300062: ArtemisSatellite:pPipe9
+    4300064: ArtemisSatellite:pPipe8
+    4300066: ArtemisSatellite:pCylinder4
+    4300068: ArtemisSatellite:pCylinder3
+    4300070: ArtemisSatellite:pCylinder2
+    4300072: ArtemisSatellite:pCylinder1
+    4300074: ArtemisSatellite:pCylinder4
+    4300076: ArtemisSatellite:pCylinder3
+    4300078: ArtemisSatellite:pCylinder2
+    4300080: ArtemisSatellite:pCylinder1
+    4300082: ArtemisSatellite:pCylinder4
+    4300084: ArtemisSatellite:pCylinder3
+    4300086: ArtemisSatellite:pCylinder2
+    4300088: ArtemisSatellite:pCylinder1
+    4300090: ArtemisSatellite:pCylinder4
+    4300092: ArtemisSatellite:pCylinder3
+    4300094: ArtemisSatellite:pCylinder2
+    4300096: ArtemisSatellite:pCylinder1
+    4300098: ArtemisSatellite:pCylinder6
+    4300100: ArtemisSatellite:pPipe7
+    4300102: ArtemisSatellite:pCylinder5
+    4300104: ArtemisSatellite:pCube7
+    4300106: ArtemisSatellite:pCube6
+    4300108: ArtemisSatellite:pCube4
+    4300110: ArtemisSatellite:pCube2
+    4300112: ArtemisSatellite:pCube5
+    4300114: ArtemisSatellite:pCube3
+    4300116: ArtemisSatellite:pCube1
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
